@@ -18,6 +18,14 @@ From the program's root directory, run the following:
 
 A new customer directory must be created. To do this, enter: 'new customer'
 
+```
+Welcome to Customer Organizer!
+---------------------------------
+What would you like to do today?
+[Enter 'help' for more info]
+> new customer
+```
+
 Give the program the information it asks and it will create a directory with the
 customers name in the customer_files directory. In this directory will be two files
 (ex. customer_name.json, customer_name_log.txt).
