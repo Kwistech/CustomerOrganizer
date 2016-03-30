@@ -37,7 +37,7 @@ The .txt file is a log of all the changes you have made to the .json file.
 
 The program comes with the basic features needed to manage customers:
 
-+ Add/remove customers
++ Add/Remove customers
 + Display customer information
 + Add/Subtract from customer pending/approved amounts
 + Move customer files based on active/inactive accounts
