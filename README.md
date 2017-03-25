@@ -4,7 +4,7 @@ Customer Organizer v.1.0
 
 Customer Organizer is a program for Python 3 that stores customer information in a logical way.
 
-##Installation
+## Installation
 
 This program is not installed. It is run from the command line.
 
@@ -14,7 +14,7 @@ From the program's root directory, run the following:
 
 `python main.py`
 
-##Upon First Run##
+## Upon First Run##
 
 A new customer directory must be created. To do this, enter: 'new customer'
 
@@ -33,7 +33,7 @@ customers name in the customer_files directory. In this directory will be two fi
 The .json file is the file in which the customers information will be stored.
 The .txt file is a log of all the changes you have made to the .json file.
 
-##Features
+## Features
 
 The program comes with the basic features needed to manage customers:
 
@@ -42,7 +42,7 @@ The program comes with the basic features needed to manage customers:
 + Add/Subtract from customer pending/approved amounts
 + Move customer files based on active/inactive accounts
 
-##Menu Commands
+## Menu Commands
 
 Below are the basic commands for the program (more info can be found in help.txt):
 
