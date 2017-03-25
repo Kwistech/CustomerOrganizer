@@ -14,7 +14,7 @@ From the program's root directory, run the following:
 
 `python main.py`
 
-## Upon First Run##
+## Upon First Run
 
 A new customer directory must be created. To do this, enter: 'new customer'
 
